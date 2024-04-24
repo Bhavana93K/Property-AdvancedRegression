@@ -13,10 +13,16 @@
 - The company has collected a data set from the sale of houses in Australia.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+We are able to achieve an R2 score of 0.82 approx on both Ridge and Lasso Models.
+The follwing factors influence the house price the most as demosntrated by both the models:-
+-Total area in square foot
+-Total Garage Area
+-Total Rooms
+-Overall Condition
+-Lot Area 6.Centrally Air Conditioned
+-Total Porch Area (Open + Enclosed)
+-Kitchen Quality
+-Basement Quality
 
 ## Technologies Used
 - Python
